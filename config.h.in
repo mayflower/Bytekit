@@ -1,0 +1,14 @@
+/* config.h.in.  Generated automatically from configure.in by autoheader 2.13.  */
+
+/* Define if your C compiler doesn't accept -c and -o together.  */
+#undef NO_MINUS_C_MINUS_O
+
+/* Define if you have the <dlfcn.h> header file.  */
+#undef HAVE_DLFCN_H
+
+/*  ByteKit  */
+#undef HAVE_BYTEKIT
+
+/* Whether to build bytekit as dynamic module */
+#undef COMPILE_DL_BYTEKIT
+
